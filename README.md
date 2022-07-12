@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/baseapparelcomingsoon-html-css-flexbox-UyKdaya6PP)
 - Live Site URL: [Netlify](https://comforting-moonbeam-b7082e.netlify.app/)
 
 ## My process
