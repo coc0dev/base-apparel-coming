@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://comforting-moonbeam-b7082e.netlify.app/)
 
 ## My process
 
@@ -47,5 +47,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/coc0dev)
+- Frontend Mentor - [@coc0dev](https://www.frontendmentor.io/profile/coc0dev)
 

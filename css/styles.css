@@ -12,11 +12,12 @@ body {
     width: 100%;
     align-items: center;
     font-size: 16px;
-    /* background-image: url(images/bg-patter-desktop.svg); */
 }
 
 .main-wrapper {
     width: 375px;
+    /* background-image: url(/images/bg-pattern-desktop.svg); */
+    background-size: cover;
 }
 
 .main-wrapper svg {
